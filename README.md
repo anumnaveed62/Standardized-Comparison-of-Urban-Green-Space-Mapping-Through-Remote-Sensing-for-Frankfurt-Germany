@@ -1,2 +1,2 @@
-# Standardized-Comparison-of-Urban-Green-Space-Mapping-Through-Remote-Sensing-for-Frankfurt-Germany
-Standardized Comparison of Urban Green Space Mapping Through Remote Sensing for Frankfurt, Germany
+This code is for vegetation segmentation in frankfurt images.
+
